@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insomiris", "Insomiris.csproj", "{1EE9A3BB-8C0F-4147-8D87-E9334532AB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insomart", "..\Insomart\Insomart.csproj", "{6D2C195D-2766-46B8-98CB-36FC652B7CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1EE9A3BB-8C0F-4147-8D87-E9334532AB31}.Debug.ActiveCfg = Debug|.NET
+		{1EE9A3BB-8C0F-4147-8D87-E9334532AB31}.Debug.Build.0 = Debug|.NET
+		{1EE9A3BB-8C0F-4147-8D87-E9334532AB31}.Release.ActiveCfg = Release|.NET
+		{1EE9A3BB-8C0F-4147-8D87-E9334532AB31}.Release.Build.0 = Release|.NET
+		{6D2C195D-2766-46B8-98CB-36FC652B7CF5}.Debug.ActiveCfg = Debug|.NET
+		{6D2C195D-2766-46B8-98CB-36FC652B7CF5}.Debug.Build.0 = Debug|.NET
+		{6D2C195D-2766-46B8-98CB-36FC652B7CF5}.Release.ActiveCfg = Release|.NET
+		{6D2C195D-2766-46B8-98CB-36FC652B7CF5}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
